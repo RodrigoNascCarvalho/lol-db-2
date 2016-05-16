@@ -49,3 +49,5 @@ Inside the program, the following options are provided to the final user:
   - Using Primary Key
   - Using Winner
   - Using MVP
+
+This repository includes .in files for testing purposes.
