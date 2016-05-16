@@ -1,5 +1,5 @@
 # League of Legends Championship Management System - Version 2
-This is an implementation of a program that maintains a database for a League of Legends Championship using a simulated data file as a string and a B-Tree as the indexing structure. It was implemented as part of an exercise for a Data Structure class.
+This is an implementation of a program that maintains a database for a League of Legends Championship using a simulated data file as a string and a B-Tree as the primary indexing structure. It was implemented as part of an exercise for a Data Structure class.
 
 The database contains the following fields:
 
